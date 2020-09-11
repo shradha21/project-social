@@ -1,0 +1,31 @@
+body {    
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to bottom right, #82EEF9,#E4F770);
+    background-size: 2000px 800px;
+}
+
+.form-container {
+    border: 2px solid #adad85;
+    box-shadow: 5px 3px #adad85;
+    margin-top: 175px;
+    padding: 50px;
+    text-align: center;
+}
+
+.font-text {
+    padding-top: 10px;
+    
+}
+
+input {
+    width: 100%;
+    background-color: whitesmoke;
+    border-color: transparent
+}
+
+h3 {
+    color:  #adad85;
+    margin-bottom: 15px;
+}
+
